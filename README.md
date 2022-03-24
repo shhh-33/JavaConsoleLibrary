@@ -1,4 +1,4 @@
-# JavaConsoleLibrary
+# Java Console Library
 
 ### 1. 프로젝트의 목적 및 용도
 
