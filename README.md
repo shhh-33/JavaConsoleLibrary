@@ -8,7 +8,8 @@
 
 ## 🎈개발 환경
 
-     Eclipse, SQL-developer
+     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ## 🎈주요 기능
 
@@ -60,6 +61,5 @@
      🌪 이신혜(https://github.com/shhh-33)
      🐑 최윤선(https://github.com/Es-YES-Ye)
      🦦 최현정(https://github.com/hyunjung930)
-+...
         
     
