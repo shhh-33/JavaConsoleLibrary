@@ -13,12 +13,10 @@ public class AddMemberUI extends BaseUI {
 	@Override
 	public void execute() {
 
-		// 아이디 입력
-		MemberDAO memberDao = new MemberDAO(); // DAO에서 다시 재정의
+		MemberDAO memberDao = new MemberDAO();
 		LibDAO dao = new LibDAO();
 		String id = "";
-		boolean bool = false; // bool이제 알려준다. false면 등록된 값이 없어서 등록 진행
-		
+		boolean bool = false;
 		do {
 			id = scanStr("○ 등록할 id를 입력하세요 : "); //
 			bool = memberDao.checkId(id);

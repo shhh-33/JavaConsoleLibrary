@@ -14,8 +14,6 @@ public class SearchByNo extends SearchBookUI {
 		SearchBookDAO dao = new SearchBookDAO();
 		List<BookVO> list = dao.selectByNo(no);
 
-		////////////////
-
 		System.out.println(
 				"============================ <   책          출         력     >==================================");
 		System.out.println("------------------------------------------------------------------------------------");
