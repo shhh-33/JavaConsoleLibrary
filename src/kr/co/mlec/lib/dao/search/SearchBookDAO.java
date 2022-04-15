@@ -96,7 +96,7 @@ public class SearchBookDAO {
 		return BookListAll;
 	}
 
-	// 2.책제목------------------------------------------------------------------------------
+	// 2.책제목
 	public List<BookVO> selectByTitle(String boardNo) {
 		Connection conn = null;
 		PreparedStatement pstmt = null;
@@ -137,7 +137,7 @@ public class SearchBookDAO {
 		return BookList;
 	}
 
-	// 3.저자--------------------------------------------------------------------------------
+	// 3.저자
 	public List<BookVO> selectByAuthor(String boardNo) {
 		Connection conn = null;
 		PreparedStatement pstmt = null;
@@ -179,7 +179,7 @@ public class SearchBookDAO {
 		return BookAuthor;
 	}
 
-	// 4.출판사-------------------------------------------------------------------------------
+	// 4.출판사
 	public List<BookVO> selectByPublisher(String boardNo) {
 		Connection conn = null;
 		PreparedStatement pstmt = null;

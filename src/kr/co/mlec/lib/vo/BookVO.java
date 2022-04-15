@@ -11,7 +11,7 @@ public class BookVO {
 	private String title;
 	private String author;
 	private String publisher;
-	private String price; //네?
+	private String price;
 	public BookVO() {
 		super();
 		// TODO Auto-generated constructor stub

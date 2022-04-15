@@ -5,12 +5,8 @@ import kr.co.mlec.lib.ui.ILibUI;
 
 public class SearchBookUI extends BaseUI {
 
-	// 도서검색
 	@Override
 	public void execute() {
-
-		// 서치 유아이에서 메뉴를 선택
-		// 책번호, 책 제목, 저자, 출판사,
 
 		System.out.println("------------------------------");
 		System.out.println("어떤 방법으로 책을 찾겠습니까?");

@@ -61,8 +61,3 @@ public class BoardUI extends BaseUI {
 	}
 }
 
-	//1. 도서검색
-	//2. 회원등록
-	//3. 대출
-	//4. 반납
-	//0. 종료

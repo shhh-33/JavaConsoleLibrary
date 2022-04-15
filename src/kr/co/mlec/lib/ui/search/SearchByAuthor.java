@@ -12,8 +12,6 @@ public class SearchByAuthor extends SearchBookUI {
 
 		SearchBookDAO dao = new SearchBookDAO();
 		List<BookVO> list = dao.selectByAuthor(no);
-		
-		
 
 		System.out.println(
 				"============================ <   책          출         력     >==================================");
