@@ -9,7 +9,6 @@ public class MemberVO {
 	private String phone;
 	public MemberVO() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public MemberVO(String id, String password, String name, String sex, String phone) {
 		super();
