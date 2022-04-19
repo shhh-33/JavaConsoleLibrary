@@ -13,20 +13,9 @@
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   ![image](https://user-images.githubusercontent.com/87368059/163897903-e3710b51-88f0-4b7f-bf4a-2ba19e86d088.png)
 
+
+
 ## 🎈주요 기능
-
-#### 💡도서 검색
-
-
-
-#### 💡회원 등록
-
-#### 💡도서 대출
-#### 💡도서 반납
-#### 💡관리자 모드
-
-
-## 🎈담당 부분
 
 >  1)  도서 검색
    >>  
@@ -55,8 +44,11 @@
             
 
 
+
 ## 🎈 참여 기간
     2022. 01. 06 ~ 2022. 01. 12
+    
+    
     
 ## 🎈 참여 멤버
      🌪 이신혜(https://github.com/shhh-33)
