@@ -52,8 +52,8 @@
     
     
 ## 🎈 참여 멤버
-     🌪 이신혜(https://github.com/shhh-33)
-     🐑 최윤선(https://github.com/Es-YES-Ye)
-     🦦 최현정(https://github.com/hyunjung930)
+     🌪 이신혜(https://github.com/shhh-33) , 🦦 최현정(https://github.com/hyunjung930) : 1,2,5번 구현
+     🐑 최윤선(https://github.com/Es-YES-Ye) :3,4 
+    
         
     
